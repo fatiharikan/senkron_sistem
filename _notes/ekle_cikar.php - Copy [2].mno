@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dersler" value="name:ders_id;datatype:int,name:ders_adi;datatype:blob,name:ders_bolumu;datatype:blob" />
+	<infoitem key="UD_akademisyen" value="name:akad_id;datatype:int,name:akad_adi;datatype:blob,name:akad_bolum;datatype:blob,name:akad_ders1;datatype:blob,name:akad_ders2;datatype:blob,name:akad_ders3;datatype:blob,name:akad_ders4;datatype:blob" />
+	<infoitem key="UD_derskayit" value="name:kayit_id;datatype:int,name:kayit_hafta;datatype:blob,name:kayit_adi;datatype:blob,name:kayit_hoca;datatype:blob,name:kayit_sure;datatype:int,name:kayit_katilim;datatype:int,name:katiy_not;datatype:blob,name:kayit_tarih;datatype:datetime" />
+	<infoitem key="UD_bolumler" value="name:bolum_id;datatype:int,name:bolum_adi;datatype:blob" />
+	<infoitem key="UD_akademik" value="name:akad_id;datatype:int,name:akad_adi;datatype:blob,name:akad_bolum;datatype:blob,name:akad_ders1;datatype:blob,name:akad_ders2;datatype:blob,name:akad_ders3;datatype:blob,name:akad_ders4;datatype:blob" />
+	<infoitem key="UD_bolum" value="name:bolum_id;datatype:int,name:bolum_adi;datatype:blob" />
+	<infoitem key="UD_katiy" value="name:kayit_id;datatype:int,name:kayit_hafta;datatype:blob,name:kayit_adi;datatype:blob,name:kayit_hoca;datatype:blob,name:kayit_sure;datatype:int,name:kayit_katilim;datatype:int,name:katiy_not;datatype:blob,name:kayit_tarih;datatype:datetime" />
+	<infoitem key="UD_users" value="name:user_id;datatype:int,name:user_user;datatype:blob,name:user_pass;datatype:blob,name:user_kim;datatype:blob" />
+</info>

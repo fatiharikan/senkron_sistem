@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:kayit_id;datatype:int,name:kayit_hafta;datatype:blob,name:kayit_adi;datatype:blob,name:kayit_hoca;datatype:blob,name:kayit_sure;datatype:int,name:kayit_katilim;datatype:int,name:katiy_not;datatype:blob,name:kayit_tarih;datatype:datetime" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bolumler" value="name:bolum_id;datatype:int,name:bolum_adi;datatype:blob" />
+	<infoitem key="UD_dersler" value="name:ders_id;datatype:int,name:ders_adi;datatype:blob,name:ders_bolumu;datatype:blob" />
+</info>
